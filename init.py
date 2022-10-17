@@ -76,6 +76,9 @@ def create_app():
 
         return render_template('results.html',tables=[t.to_html(classes='data',index=False,na_rep='',render_links=True, escape=False) for t in results],form=search)
 
+    @app.route('/biomedical-engineering-minor', methods=['GET'])
+    def biomedical_engineering_minor():
+        return render_template('minordesc.html')
     """
     This method shows the information about a single course.
     First, some basic error handling for if a course is passed that does not exist.
