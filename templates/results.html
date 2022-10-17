@@ -10,6 +10,7 @@
 
 <body>
   <h3>Search for courses</h3>
+  {% from "_formhelpers.html" import render_field %}
   <form class = "common-page-form" method="post">
     <dl>
       {{ render_field(form.select) }}
