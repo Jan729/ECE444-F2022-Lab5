@@ -1,6 +1,16 @@
 Janelle Law & Jonathan Yan
 ## this repo is a clone of https://github.com/nelaturuk/education_pathways
 
+### Home page
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/46268176/196266372-753e1986-e13c-4188-b195-3c5e5794c7e5.png">
+
+### Results page - form
+
+### Results page - results table
+
+### Low-fidelity prototype 1: Minor description page
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/46268176/196266013-5d77281a-9ded-4aa5-b503-902195be0706.png">
+
 # CARTE Education Pathways
 
 ## Description
