@@ -33,12 +33,17 @@ class CourseSearchForm(Form):
         ('25','25'),
         ('50','50')
     ]
+
+    topics = ["Photonics & Semiconductor Physics", "Electromagnetics", "Energy Systems", "Digital Electronics", "Analog Electronics", "Control, Communications & Signal Processing", "Computer Hardware", "Computer Networks", "Software", "Science/Math Electives"]
+
+
     select = SelectField('Course Year:', choices=year_choices)
     top = SelectField('',choices=top)
     divisions = SelectField('Division:', choices=divisions)
     departments = SelectField('Department:', choices=departments)
     campuses = SelectField('Campus:', choices=campus)
-    search = StringField('Search Terms:')
+    topics = SelectField('ECE Topic:', choices=topics)
+    search = StringField('Search Terms:')   
 
 def create_app():
     app = Flask(__name__, instance_relative_config=True)
