@@ -1,6 +1,10 @@
 Janelle Law & Jonathan Yan
 ## this repo is a clone of https://github.com/nelaturuk/education_pathways
 
+## Activity 1
+<img width="929" alt="image" src="https://user-images.githubusercontent.com/46268176/197051917-278bb7b5-f0e1-4c68-acc5-23a1db9a289c.png">
+
+## Screenshots after completing activities 2-6
 ### Home page
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/46268176/196266372-753e1986-e13c-4188-b195-3c5e5794c7e5.png">
 
