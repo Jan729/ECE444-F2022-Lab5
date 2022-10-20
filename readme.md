@@ -5,7 +5,7 @@ Janelle Law & Jonathan Yan
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/46268176/196266372-753e1986-e13c-4188-b195-3c5e5794c7e5.png">
 
 ### Results page - form
-<img width="936" alt="image" src="https://user-images.githubusercontent.com/46268176/197042775-54f01d10-d4ea-4c2b-85e2-68d20b94d288.png">
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/46268176/197051618-dae6deb6-3833-41ac-ad65-cfc4b6d49a60.png">
 
 ### Results page - results table
 <img width="920" alt="image" src="https://user-images.githubusercontent.com/46268176/197042680-9463d7af-0877-499e-bfd0-1be46651da23.png">
