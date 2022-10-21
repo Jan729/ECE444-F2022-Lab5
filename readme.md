@@ -15,7 +15,16 @@ Janelle Law & Jonathan Yan
 <img width="920" alt="image" src="https://user-images.githubusercontent.com/46268176/197042680-9463d7af-0877-499e-bfd0-1be46651da23.png">
 
 ### Low-fidelity prototype 1: Minor description page
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/48415950/197093941-61db77f9-af4d-4e73-9d88-0a7f67b5ba0d.JPG">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/46268176/196266013-5d77281a-9ded-4aa5-b503-902195be0706.png">
+
+### Low-fidelity prototype 2: ECE topic selection
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/48415950/197093964-ab80ba6a-b11b-4590-b5c7-1df140ae1aef.JPG">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/48415950/197094022-3b8312b0-086f-454e-9df2-93641707e006.png">
+
+### Low-fidelity prototype 3: Course rating display
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/48415950/197093980-0d3d0eb6-c0c3-4c2f-a6be-a383fed15006.JPG">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/48415950/197094049-52949972-6d97-49fe-bb71-035999d0c03e.JPG">
 
 # CARTE Education Pathways
 
